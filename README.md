@@ -3,7 +3,7 @@
 
 ## Overview
 
-This project is an interactive data analytics dashboard that tracks real estate trends in Florida using data from the Zillow API, enriched with macroeconomic indicators such as interest rates, inflation, treasury yields, and population migration. The goal is to provide a comprehensive view of housing market dynamics and uncover correlations between real estate activity and broader economic factors.
+This project is an interactive data analytics dashboard that tracks real estate trends in Florida using data from the Refin API, enriched with macroeconomic indicators such as interest rates, inflation, treasury yields, and population migration. The goal is to provide a comprehensive view of housing market dynamics and uncover correlations between real estate activity and broader economic factors.
 
 ## 🔍 Key Features
 
@@ -24,4 +24,5 @@ This project is an interactive data analytics dashboard that tracks real estate 
 - Trello (project management)
 
 ## 📁 Repository Structure
+
 
